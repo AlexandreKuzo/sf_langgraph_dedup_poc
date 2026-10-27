@@ -3,7 +3,7 @@
 POC pédagogique pour reprendre Python via [LangGraph](https://github.com/langchain-ai/langgraph),
 sur un cas d'usage réaliste de data quality Salesforce (dédoublonnage de
 Contacts/Leads). Pensé comme preuve technique pour des candidatures type
-"Ops Engineer" / plateforme interne.
+"GTM/RevOps Engineer" / plateforme interne.
 
 > **🚧 Proof of Concept — ni produit, ni outil de production.**
 > Rien n'est réellement exécuté côté Salesforce : `merge_duplicates` décrit
